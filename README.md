@@ -4,7 +4,7 @@
 
 
 
-配置LGVPN
+配置LG
 
 ###1.安装pip
 sudo yum install python-pip
